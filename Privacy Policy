@@ -1,0 +1,42 @@
+Privacy Policy
+
+
+Effective Date: 
+App Name: MPPCB iEMS
+Organization: Madhya Pradesh Pollution Control Board (MPPCB)
+This Privacy Policy explains how the MPPCB iEMS mobile application ("we", "our", or "us") collects, uses, and protects the information you provide when using the app. This app is designed to facilitate real-time monitoring and reporting of environmental parameters.
+ 
+1. Information We Collect
+We do not collect personal information unless explicitly required for app functionality. The types of information that may be collected include:
+Location data – only if explicitly permitted by the user and necessary for reporting purposes.
+Environmental data (e.g., sensor readings, images) – as submitted by authorized users.
+ 
+2. How We Use Information
+We use the collected data for the following purposes:
+To monitor environmental parameters.
+To enhance and maintain app functionality.
+To ensure data integrity and traceability in environmental reporting.
+To communicate with authorized personnel in case of critical updates or alerts.
+ 
+3. Data Sharing and Security
+We do not sell or rent user data to third parties.
+Data is shared only with MPPCB-authorized systems and officials.
+Appropriate security measures (encryption, secure APIs) are in place to protect data during transmission and storage.
+ 
+4. Permissions
+The app may request the following permissions:
+Location Access: To tag environmental reports with geolocation data (only with user consent).
+Camera/Storage Access: For uploading evidence (images/documents) as part of environmental submissions.
+Users can manage or revoke these permissions from their device settings at any time.
+ 
+5. Third-Party Services
+This app does not integrate with any third-party analytics or advertising services. If any third-party APIs are used (e.g., maps), their privacy terms apply separately.
+ 
+6. Changes to This Policy
+We may update this Privacy Policy from time to time. Changes will be posted on the official GitHub repository and/or notified through the app.
+ 
+7. Contact Us
+For any questions or concerns regarding this privacy policy, contact:
+Madhya Pradesh Pollution Control Board (MPPCB)
+Website:https://mppcb.mp.gov.in/
+Email: hq-mppcb@mp.gov.in
